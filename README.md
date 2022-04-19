@@ -1,4 +1,4 @@
-# patterns
+# Patterns:
 Sliding Window  
 Two Pointers  
 Fast & Slow Pointers  
